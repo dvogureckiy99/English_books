@@ -2,11 +2,11 @@
 First book that I learned is `English, On the Way to Success, 2012, 9th edition`
 
 # PART I
-## 1. THE ENGLISH VERB
-### 1.1. THE ACTIVE VOICE
-### 1.1.1. THE PRESENT SIMPLE (INDEFINITE) AND THE PRESENT CONTINUOUS (PROGRESIVE) TENSE-FORMS
-#### Practice 
-#### 1.
+[# 1. THE ENGLISH VERB](On_the_Way_to_Success/1./1.README.md)
+## 1.1. THE ACTIVE VOICE
+## 1.1.1. THE PRESENT SIMPLE (INDEFINITE) AND THE PRESENT CONTINUOUS (PROGRESIVE) TENSE-FORMS
+### Practice 
+### 1.
 1.  sit
 2.  keeps
 3.  tastes
@@ -17,7 +17,7 @@ First book that I learned is `English, On the Way to Success, 2012, 9th edition`
 8.  do you get
 9.  freezes
 10.  doesn't exist
-#### 2.
+### 2.
 1.  till
 2.  every year
 3.  now
@@ -33,7 +33,7 @@ First book that I learned is `English, On the Way to Success, 2012, 9th edition`
 13.  one day
 14.  nowadays
 15.  every other day
-#### 3.
+### 3.
 1. don't smoke
 2. is planning
 3. takes,lands
@@ -44,7 +44,7 @@ First book that I learned is `English, On the Way to Success, 2012, 9th edition`
 8. do
 9. 
 
-New words for me:
+### New words for me:
 1. coincides - [] - совпадают
 2. interrogative -  - вопросительное
 3. seldom - [сэлдом] - редко
