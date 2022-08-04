@@ -33,6 +33,16 @@ First book that I learned is `English, On the Way to Success, 2012, 9th edition`
 13.  one day
 14.  nowadays
 15.  every other day
+#### 3.
+1. don't smoke
+2. is planning
+3. takes,lands
+4. think, are 
+5. tells, says
+6. understand, is talking
+7. love brings
+8. do
+9. 
 
 New words for me:
 1. coincides - [] - совпадают
@@ -45,4 +55,15 @@ New words for me:
 8. hardly - трудный, едва
 9. possession - владение, обладание 
 10. possess - владеть, обладать
-11. 
+11. sunordinate clause - придаточное предложение
+12. itineraries - маршрут, путь, путеводитель
+13. pre-arranged - запланированные
+14. utterance - выражение 
+15. irritation - раздражение
+16. reproach - упрёк, позор, упрекать
+17. trifle - пустяк, мелочь
+18. convey - сообщает
+19. shave -  [ʃeɪv] - брить, бриться
+20. nuisance -  [njuːsns] - неприятность, неприятный
+
+21.  
