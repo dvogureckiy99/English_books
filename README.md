@@ -15,7 +15,7 @@ book On the Way to Success answers
 # [9. WORD ORDER](On_the_Way_to_Success/I/9./9.README.md)
 # [10. TEXT CONNECTORS](On_the_Way_to_Success/I/10./10.README.md)
 # [11. WORD CHOICE](On_the_Way_to_Success/I/11./11.md)
-# [12. CONVERSATIONAL FORMILAS AND PHRASES](On_the_Way_to_Success/12./12.md)
+# [12. CONVERSATIONAL FORMILAS AND PHRASES](On_the_Way_to_Success/I/12./12.md)
 # PART II EVALUATION OF LEARNERS' SKILLS IN THE USE OF ENGLISH
 # [1. CLASSIFIED TESTS](On_the_Way_to_Success/II/1./1.md)
 # [2. INTEGRATED TESTS](On_the_Way_to_Success/II/2./2.md)
